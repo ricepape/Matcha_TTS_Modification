@@ -1,0 +1,6 @@
+# Ignore all files in the .venv directory
+.venv/*
+
+# Ignore specific large files
+generator_v1
+matcha_ljspeech.ckpt
